@@ -9,3 +9,5 @@ Aside from completing the tutorial's hands-on guide, the project also implemente
 - [x] When no one wins, display a message about the result being a draw.
 
 Looking back, it looks trivial to add the uncompleted the two unchecked boxes, but I'm sharing this as is. Looking at how well the tutorial introduce React's lifecycle methods, I'm looking forward to [React Hook](https://reactjs.org/docs/hooks-intro.html) version. 
+
+Build version of the game is playable [here](https://benedictjohannes.github.io/follow-react-tic-tac-toe/).
